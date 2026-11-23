@@ -7,6 +7,13 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.5
+- New look: quiet Bauhaus style (Jost type, paper and ink, red/blue/yellow used sparingly).
+- Simpler navigation: Today, Plan, Progress. Settings sit behind the gear icon.
+- Adjust plan: change goal and date, sports, training days and time, or your details at any point; the plan rebuilds from today and keeps your logs.
+- Strength sessions show a front/back body map of the muscles trained.
+- Every exercise has a hand-drawn pencil illustration with numbered points to look out for, in the exercise guide and while logging.
+
 ### 0.4 (versionCode 4)
 - Updates are now read from `latest.json` in this repository.
 
