@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.9
+- Away mode: enter the dates of a trip (Today or Plan → Going away). No sessions while away, or a few optional 30-minute easy/bodyweight sessions if you can train a little. Key sessions stay on your days at home; afterwards you're eased back in (easier first cardio session; easier weeks after 1, 2 or 3+ weeks away). Days away never count as missed.
+
 ### 0.8.1
 - Illness and a low readiness score always take precedence over a session you made heavier; the app tells you when it does.
 

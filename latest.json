@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.8.1",
-  "apk": "apk/trajectory-9.apk",
-  "notes": "Illness and low readiness always win over a session you made heavier."
+  "versionCode": 10,
+  "versionName": "0.9",
+  "apk": "apk/trajectory-10.apk",
+  "notes": "Away mode: tell the app when you're travelling; it plans around the trip and eases you back in."
 }
