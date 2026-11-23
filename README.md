@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.8.1
+- Illness and a low readiness score always take precedence over a session you made heavier; the app tells you when it does.
+
 ### 0.8
 - Subtitle: "Workouts follow you".
 - Arrange your week yourself (per day: off, any, gym, run, ride); the plan fills in each session. Also per single week from the Plan tab.

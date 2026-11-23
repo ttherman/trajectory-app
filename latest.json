@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8",
-  "apk": "apk/trajectory-8.apk",
-  "notes": "Workouts follow you: arrange your own week, move sessions, make them lighter or heavier, measure in km or minutes, set your own heart-rate zones, preview any day."
+  "versionCode": 9,
+  "versionName": "0.8.1",
+  "apk": "apk/trajectory-9.apk",
+  "notes": "Illness and low readiness always win over a session you made heavier."
 }
