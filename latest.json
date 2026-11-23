@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6",
-  "apk": "apk/trajectory-6.apk",
-  "notes": "Light appearance by default, whatever your phone's dark mode. Choose Light, Dark or Like phone in Settings."
+  "versionCode": 7,
+  "versionName": "0.7",
+  "apk": "apk/trajectory-7.apk",
+  "notes": "Now called Werkstatt. Log strength sessions your way: type any exercise, it's remembered for next time. Quieter, clearer screens."
 }

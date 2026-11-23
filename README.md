@@ -1,4 +1,4 @@
-# Trajectory
+# Werkstatt
 
 Release channel for my personal Android training app. `latest.json` points to the newest app file in `apk/`;
 the app checks it twice a day and updates itself.
@@ -6,6 +6,12 @@ the app checks it twice a day and updates itself.
 No training data or source code lives here.
 
 ## Changelog
+
+### 0.7
+- Renamed to Werkstatt, with a geometric Bauhaus wordmark and a new icon.
+- Strength logging starts from what you did: change any exercise by typing its name, add your own, remove what you skipped. Weight, reps and how hard the last set felt.
+- A new exercise is remembered: as an option for that movement, and as the default next time. Exercises you add on top of a session come back in that session next time.
+- Quieter screens: no boxes, clearer button labels (Record, Log afterwards, Log what you did), words under the week strip.
 
 ### 0.6
 - The app is light by default, even when the phone uses dark mode. Settings → Appearance: Light, Dark or Like phone.
