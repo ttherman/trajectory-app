@@ -1,11 +1,14 @@
 # Trajectory
 
-Release channel for my personal Android training app. Each release contains one file,
-`trajectory-<versionCode>.apk`; the app checks the latest release and updates itself.
+Release channel for my personal Android training app. `latest.json` points to the newest app file in `apk/`;
+the app checks it twice a day and updates itself.
 
 No training data or source code lives here.
 
 ## Changelog
+
+### 0.4 (versionCode 4)
+- Updates are now read from `latest.json` in this repository.
 
 ### 0.3 (versionCode 3)
 - Mix running and cycling in one plan (e.g. strength + running in winter, cycling in spring).
