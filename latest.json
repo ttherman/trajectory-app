@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7",
-  "apk": "apk/trajectory-7.apk",
-  "notes": "Now called Werkstatt. Log strength sessions your way: type any exercise, it's remembered for next time. Quieter, clearer screens."
+  "versionCode": 8,
+  "versionName": "0.8",
+  "apk": "apk/trajectory-8.apk",
+  "notes": "Workouts follow you: arrange your own week, move sessions, make them lighter or heavier, measure in km or minutes, set your own heart-rate zones, preview any day."
 }

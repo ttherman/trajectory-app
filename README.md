@@ -7,6 +7,14 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.8
+- Subtitle: "Workouts follow you".
+- Arrange your week yourself (per day: off, any, gym, run, ride); the plan fills in each session. Also per single week from the Plan tab.
+- Move a session to another day (swaps with what's there), make it lighter or heavier, type any duration or distance.
+- Measure cardio in minutes or kilometres (pace learned from your logged sessions).
+- Set your own heart-rate zones per sport.
+- Today: tap any day of this or next week to preview it; log missed days afterwards with a start time.
+
 ### 0.7
 - Renamed to Werkstatt, with a geometric Bauhaus wordmark and a new icon.
 - Strength logging starts from what you did: change any exercise by typing its name, add your own, remove what you skipped. Weight, reps and how hard the last set felt.
