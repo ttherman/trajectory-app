@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.6
+- The app is light by default, even when the phone uses dark mode. Settings → Appearance: Light, Dark or Like phone.
+
 ### 0.5
 - New look: quiet Bauhaus style (Jost type, paper and ink, red/blue/yellow used sparingly).
 - Simpler navigation: Today, Plan, Progress. Settings sit behind the gear icon.

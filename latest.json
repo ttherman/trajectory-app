@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5",
-  "apk": "apk/trajectory-5.apk",
-  "notes": "Calmer Bauhaus design, three tabs with settings under the gear, Adjust plan (change goal, date, sports, days and time after you've started), body map of trained muscles, pencil drawings with what to look out for on every exercise."
+  "versionCode": 6,
+  "versionName": "0.6",
+  "apk": "apk/trajectory-6.apk",
+  "notes": "Light appearance by default, whatever your phone's dark mode. Choose Light, Dark or Like phone in Settings."
 }
