@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.10",
-  "apk": "apk/trajectory-11.apk",
-  "notes": "Condition chart on Progress: fitness, fatigue and form like intervals.icu, with where the plan takes you."
+  "versionCode": 12,
+  "versionName": "0.11",
+  "apk": "apk/trajectory-12.apk",
+  "notes": "Simpler: Today shows one day at a time with the fields to fill in; swipe through the week; calmer Plan; Progress in plain words."
 }

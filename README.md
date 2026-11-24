@@ -7,6 +7,11 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.11
+- Today: one day per page, swipe through the week (past Sunday you land on Plan). Each day shows the session and the fields to fill in (reps × kg per exercise, + row; or time, km, effort). Two buttons: Skip and Change. "I did something else" logs any other activity instead.
+- Plan: three weeks at a glance, tap a session for details and changes; Going away / Not feeling well / Arrange under "More".
+- Progress: condition in plain words with one line; fatigue and form under "Details".
+
 ### 0.10
 - Condition chart (Progress): fitness (6-week load), fatigue (1-week load) and form with intervals.icu-style zones; building / holding steady / declining; the plan's sessions continue the curve to your goal date. Cardio only, or cardio + strength.
 
