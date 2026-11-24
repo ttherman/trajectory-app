@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.12
+- Exercise drawings in three styles: Bauhaus pencil, Expressionism or Cubism (Settings → Exercise drawings). Figures only, with the numbered points to look out for in matching colours.
+
 ### 0.11
 - Today: one day per page, swipe through the week (past Sunday you land on Plan). Each day shows the session and the fields to fill in (reps × kg per exercise, + row; or time, km, effort). Two buttons: Skip and Change. "I did something else" logs any other activity instead.
 - Plan: three weeks at a glance, tap a session for details and changes; Going away / Not feeling well / Arrange under "More".

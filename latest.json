@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.11",
-  "apk": "apk/trajectory-12.apk",
-  "notes": "Simpler: Today shows one day at a time with the fields to fill in; swipe through the week; calmer Plan; Progress in plain words."
+  "versionCode": 13,
+  "versionName": "0.12",
+  "apk": "apk/trajectory-13.apk",
+  "notes": "Choose how exercise drawings look: Bauhaus, Expressionism or Cubism (Settings)."
 }
