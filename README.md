@@ -7,6 +7,12 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.14
+- New tab: Atelier. Every session leaves a mark. Studie (one session), Blatt (a week), Tafel (a month), Meisterstück (the whole trajectory), in Bauhaus, Sumi-e or Cubism. By default the style follows your exercise drawings; change it under Werkzeug.
+- Paintings come from your own data: the recorded route becomes the stroke, heart rate sets the pressure, strength sessions show a column per exercise and a line per set. Each session is compared with your own recent ones, the time of day sets the ink or colour, and each work picks a layout the previous three didn't use.
+- Werkzeug: colours, tools and materials are earned by a complete week, kept rest days, four kinds of session, coming back after a break, a month following the plan, a measured improvement and ten complete weeks. Never by training more or harder. Each item is used from then on and can be switched off.
+- Every painting carries the Werkstatt seal in the bottom right corner.
+
 ### 0.13
 - Exercise drawings: Sumi-e ink replaces Expressionism. Brush and ink on rice paper, the working muscles in red, numbered points in black. If you had Expressionism selected, you now get Sumi-e.
 
