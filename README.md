@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.15
+- Atelier: Save and Share under every painting. Each is rendered afresh at print size (3000 px on the long side) as a PNG, saved to Pictures/Werkstatt or sent through the share sheet.
+
 ### 0.14
 - New tab: Atelier. Every session leaves a mark. Studie (one session), Blatt (a week), Tafel (a month), Meisterstück (the whole trajectory), in Bauhaus, Sumi-e or Cubism. By default the style follows your exercise drawings; change it under Werkzeug.
 - Paintings come from your own data: the recorded route becomes the stroke, heart rate sets the pressure, strength sessions show a column per exercise and a line per set. Each session is compared with your own recent ones, the time of day sets the ink or colour, and each work picks a layout the previous three didn't use.
