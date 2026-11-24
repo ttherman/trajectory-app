@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.13
+- Exercise drawings: Sumi-e ink replaces Expressionism. Brush and ink on rice paper, the working muscles in red, numbered points in black. If you had Expressionism selected, you now get Sumi-e.
+
 ### 0.12
 - Exercise drawings in three styles: Bauhaus pencil, Expressionism or Cubism (Settings → Exercise drawings). Figures only, with the numbered points to look out for in matching colours.
 
