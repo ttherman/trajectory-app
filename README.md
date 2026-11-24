@@ -7,6 +7,9 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.10
+- Condition chart (Progress): fitness (6-week load), fatigue (1-week load) and form with intervals.icu-style zones; building / holding steady / declining; the plan's sessions continue the curve to your goal date. Cardio only, or cardio + strength.
+
 ### 0.9
 - Away mode: enter the dates of a trip (Today or Plan → Going away). No sessions while away, or a few optional 30-minute easy/bodyweight sessions if you can train a little. Key sessions stay on your days at home; afterwards you're eased back in (easier first cardio session; easier weeks after 1, 2 or 3+ weeks away). Days away never count as missed.
 

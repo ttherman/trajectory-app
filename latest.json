@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.9",
-  "apk": "apk/trajectory-10.apk",
-  "notes": "Away mode: tell the app when you're travelling; it plans around the trip and eases you back in."
+  "versionCode": 11,
+  "versionName": "0.10",
+  "apk": "apk/trajectory-11.apk",
+  "notes": "Condition chart on Progress: fitness, fatigue and form like intervals.icu, with where the plan takes you."
 }
