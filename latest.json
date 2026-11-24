@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.15",
-  "apk": "apk/trajectory-16.apk",
-  "notes": "Atelier: save a painting to your phone (Pictures/Werkstatt) or share it, rendered at print size."
+  "versionCode": 17,
+  "versionName": "0.16",
+  "apk": "apk/trajectory-17.apk",
+  "notes": "Atelier: each style now has its own language. Bauhaus builds sessions from circles, triangles, squares and bars; Sumi-e paints bamboo for intervals and stones for strength; Cubism builds a scaffold of planes and shows the route from three sides."
 }

@@ -7,6 +7,12 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.16
+- Atelier: the three styles no longer share one form.
+  - Bauhaus: a construction of primary forms on a grid. Blue circle for easy runs, yellow triangle for tempo, red square for intervals (each hard bout a red square on the black rule), bars for strength (one per exercise, the heaviest in red), a blue circle with a yellow half-disc for long runs. A sun at the time of day you trained; the route only sets the diagonal.
+  - Sumi-e: a subject. Intervals become bamboo (a segment per bout, leaves after the hardest), strength becomes stones (one per exercise, a texture stroke per set); easy and long runs stay the route in one stroke.
+  - Cubism: a rising scaffold of planes, shaded by heart rate through the session, with the route seen from three sides at once; strength as columns seen from two sides.
+
 ### 0.15
 - Atelier: Save and Share under every painting. Each is rendered afresh at print size (3000 px on the long side) as a PNG, saved to Pictures/Werkstatt or sent through the share sheet.
 
