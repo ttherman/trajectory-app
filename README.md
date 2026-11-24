@@ -7,6 +7,13 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.17
+- Atelier: subjects. Each session is painted as a subject drawn at random (the same one every time you look at it), favouring subjects that suit the season.
+  - Sumi-e: bamboo, plum branch, reeds, pine (intervals); the route, ensō, mountains, waves (steady); stones, peaks, budding branch, bridge (strength).
+  - Bauhaus: red square, staircase, checkerboard, construction (intervals); primary form, concentric circles, arcs on a line, colour bands (steady); bars, tower, balance, grid (strength).
+  - Cubism: scaffold, houses, broken route, still life, harlequin, columns.
+- Two subjects per kind of session to start; one more for every month you follow the plan. Switch any subject off under Werkzeug.
+
 ### 0.16
 - Atelier: the three styles no longer share one form.
   - Bauhaus: a construction of primary forms on a grid. Blue circle for easy runs, yellow triangle for tempo, red square for intervals (each hard bout a red square on the black rule), bars for strength (one per exercise, the heaviest in red), a blue circle with a yellow half-disc for long runs. A sun at the time of day you trained; the route only sets the diagonal.
