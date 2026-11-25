@@ -7,6 +7,10 @@ No training data or source code lives here.
 
 ## Changelog
 
+### 0.18
+- Illness in one tap: Skip → I'm ill (also under Change, and in Plan's ⋯ menu). The plan rests you until you tap I'm better; "Only a head cold" allows light sessions.
+- Quieter screens throughout: no date line or sentences on Today; strength logs the weight once per exercise with sets as a row of reps; Plan has one ⋯ menu, two weeks and a thin goal bar; Progress shows one word and an arrow, a form gauge, this week as dots and strength with arrows, with explanations behind ⓘ; Atelier drops its text under the painting; Settings is one line per setting with details in a sheet.
+
 ### 0.17
 - Atelier: subjects. Each session is painted as a subject drawn at random (the same one every time you look at it), favouring subjects that suit the season.
   - Sumi-e: bamboo, plum branch, reeds, pine (intervals); the route, ensō, mountains, waves (steady); stones, peaks, budding branch, bridge (strength).

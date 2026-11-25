@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.17",
-  "apk": "apk/trajectory-18.apk",
-  "notes": "Atelier: every session now gets a subject at random, favouring the season: bamboo or plum blossom, staircases or concentric circles, houses or still lifes. New subjects come with every month you follow the plan; switch any off under Werkzeug."
+  "versionCode": 19,
+  "versionName": "0.18",
+  "apk": "apk/trajectory-19.apk",
+  "notes": "Quieter screens: less text, one menu per screen, explanations behind ⓘ. Feeling ill? Skip → I'm ill, one tap."
 }
